@@ -1,2 +1,2 @@
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>># taminternal.github.io
+# taminternal.github.io
                                                                                Internal RUM testing
