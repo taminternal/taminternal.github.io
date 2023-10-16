@@ -1,5 +1,12 @@
-# TAM 
-                                                                        Internal RUM testing
-<label for="name"> TECHNICAL SUPPORT TEAM </label>
+<header>
+  <a class="logo" href="#">Cute Puppies Express!</a>
+</header>
 
-<input type="text" id="name" name="name" required minlength="6" maxlength="10" size="12" />                                                                        
+<article>
+  <header>
+    <h1>Beagles</h1>
+    <time>08.12.2014</time>
+  </header>
+  <p>I love beagles <em>so</em> much! Like, really, a lot. They’re adorable and their ears are so, so snuggly soft!</p>
+</article>
+
