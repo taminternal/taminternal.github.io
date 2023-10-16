@@ -1,12 +1,12 @@
 <header>
-  <a class="logo" href="#">Cute Puppies Express!</a>
+  <a class="logo" href="#">TECHNICAL SERVICES!</a>
 </header>
 
 <article>
   <header>
-    <h1>Beagles</h1>
-    <time>08.12.2014</time>
+    <h1>SUPPORT TEAM</h1>
+    <time>10.16.2023</time>
   </header>
-  <p>I love beagles <em>so</em> much! Like, really, a lot. They’re adorable and their ears are so, so snuggly soft!</p>
+  <p>Catchpoint support team provides an unmatched ticketed and personal support <em>— including</em> everything from observer setup tutorials to analysis of customer facing problems!</p>
 </article>
 
