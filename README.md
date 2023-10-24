@@ -1,5 +1,5 @@
 <header>
-  <a class="logo" href="#">TECHNICAL SERVICES!</a>
+  <a class="logo" href="#">TECHNICAL SERVICES</a>
 </header>
 
 <article>
